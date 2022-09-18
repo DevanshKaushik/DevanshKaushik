@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/kaushik-devansh/"><img src="https://img.shields.io/badge/kaushik--devansh-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 </p>
 
-- 🔭 Currently working on an OSS
+- 🔭 Currently working as a Full-Stack Developer Intern @[Wysa](https://www.wysa.io/)
 - 🌱 Experience with TypeScript, Python, JavaScript, and Ruby
 - 👯 Worked with frameworks like React, Node, Express, Rails, and Electron
 
